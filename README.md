@@ -1,16 +1,54 @@
-### Hi there 👋
+# 👨‍💻 Lucas Cardoso Alecrim
 
-<!--
-**LucasCAlecrim/LucasCAlecrim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre Mim
 
-Here are some ideas to get you started:
+Desenvolvedor dedicado e entusiasta, atualmente focado em estudos aprofundados e na realização de projetos complexos para aprimoramento profissional.
+Minha paixão reside em transformar desafios em soluções de software. 
+Possuo especialização em:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java ☕
+- Spring Boot 🌱
+- PostgreSQL 🐘
+- SQL 🛠️
+- Git 🧑‍💻
+- APIs REST 🚀
+- Testes Unitários 🧪
+- Scrum 🔄
+  
+Busco constantemente expandir meu conhecimento e aplicá-lo em projetos desafiadores, contribuindo para meu desenvolvimento e alinhando-me às demandas do mercado de trabalho. Estou aberto a oportunidades que me permitam continuar crescendo e aplicando minhas habilidades de maneira impactante.
+
+## 🛠️ Experiência Profissional
+
+### Petrosystem Webposto
+*Estagiário* (11/2023 – Atual)
+- DBA SQL / PostgreSQL
+- Analista de Sistemas
+- Suporte (nível 1 e 2)
+
+### CESAR - Centro de Estudos Avançados do Recife
+*Suporte Técnico* (12/2021 – 12/2022)
+- Apoio aos colaboradores
+
+### Infodoctor
+*Suporte Técnico* (12/2021 – 12/2022)
+- Implementação de Softwares
+- Suporte (nível 1 e 2)
+
+## 📬 Contato
+
+- LinkedIn: [Lucas Cardoso Alecrim](https://www.linkedin.com/in/lucas-cardoso-alecrim/)
+- GitHub: [/LucasCAlecrim](https://github.com/LucasCAlecrim)
+- Email: lucascardosoalecrim99@gmail.com
+- Telefone: ☎️ 81 98457-0298
+
+## 💻 Tecnologias
+
+- Java ☕
+- Spring Boot 🌱
+- PostgreSQL 🐘
+- SQL 🛠️
+- API Rest 🚀
+- Testes Unitários 🧪
+- Git / GitHub 🧑‍💻
+- Scrum 🔄
+
