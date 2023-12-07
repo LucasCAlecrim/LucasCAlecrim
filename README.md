@@ -37,6 +37,7 @@ Busco constantemente expandir meu conhecimento e aplicá-lo em projetos desafiad
 ## 📬 Contato
 
 - LinkedIn: [Lucas Cardoso Alecrim](https://www.linkedin.com/in/lucas-cardoso-alecrim/)
+- CV: [https://docs.google.com/document/d/1Nz6xTW5CAeez2YF616gmuapnUgpY4QhI/edit?usp=drive_link&ouid=102492892958179933901&rtpof=true&sd=true]
 - Email: lucascardosoalecrim99@gmail.com
 - Telefone: ☎️ 81 98457-0298
 
