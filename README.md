@@ -37,7 +37,6 @@ Busco constantemente expandir meu conhecimento e aplicá-lo em projetos desafiad
 ## 📬 Contato
 
 - LinkedIn: [Lucas Cardoso Alecrim](https://www.linkedin.com/in/lucas-cardoso-alecrim/)
-- GitHub: [/LucasCAlecrim](https://github.com/LucasCAlecrim)
 - Email: lucascardosoalecrim99@gmail.com
 - Telefone: ☎️ 81 98457-0298
 
