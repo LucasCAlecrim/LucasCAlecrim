@@ -7,7 +7,7 @@
 [![GiiHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LucasCAlecrim)
 <br/>
 
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](lucascardosoalecrim99@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-lucascardosoalecrim99@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](lucascardosoalecrim99@gmail.com)
 
 ## Sobre Mim
 
